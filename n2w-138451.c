@@ -1,6 +1,5 @@
 /* Name -- Anik Saha
-Company Name-Qualcomm
-Employee ID-138451*/
+*/
 
 
  #include <stdio.h>
